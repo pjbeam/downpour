@@ -1,6 +1,0 @@
-[package]
-name = "bencoding"
-version = "0.1.0"
-authors = ["Patrick Beam <pjbeam@protonmail.com>"]
-
-[dependencies]
